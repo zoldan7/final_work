@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GB_final_round\bin\Debug\net6.0\GB_final_round.exe
+C:\Users\user\Desktop\GB_final_round\bin\Debug\net6.0\GB_final_round.deps.json
+C:\Users\user\Desktop\GB_final_round\bin\Debug\net6.0\GB_final_round.runtimeconfig.json
+C:\Users\user\Desktop\GB_final_round\bin\Debug\net6.0\GB_final_round.dll
+C:\Users\user\Desktop\GB_final_round\bin\Debug\net6.0\ref\GB_final_round.dll
+C:\Users\user\Desktop\GB_final_round\bin\Debug\net6.0\GB_final_round.pdb
+C:\Users\user\Desktop\GB_final_round\obj\Debug\net6.0\GB_final_round.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB_final_round\obj\Debug\net6.0\GB_final_round.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB_final_round\obj\Debug\net6.0\GB_final_round.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB_final_round\obj\Debug\net6.0\GB_final_round.AssemblyInfo.cs
+C:\Users\user\Desktop\GB_final_round\obj\Debug\net6.0\GB_final_round.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB_final_round\obj\Debug\net6.0\GB_final_round.dll
+C:\Users\user\Desktop\GB_final_round\obj\Debug\net6.0\ref\GB_final_round.dll
+C:\Users\user\Desktop\GB_final_round\obj\Debug\net6.0\GB_final_round.pdb
+C:\Users\user\Desktop\GB_final_round\obj\Debug\net6.0\GB_final_round.genruntimeconfig.cache
